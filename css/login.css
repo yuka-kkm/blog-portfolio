@@ -1,0 +1,20 @@
+a {
+    color: #000;
+    letter-spacing: 0.1em;
+}
+
+.form-control {
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #000;
+    border-radius: 0;
+    letter-spacing: 0.1em;
+}
+
+.form-control:focus{
+    box-shadow: none;
+}
+
+button[type=submit]{
+    letter-spacing: 0.1em;
+}
